@@ -53,8 +53,8 @@ async function sendNotification(){
     var transporter = nodemailer.createTransport({
         service:"gmail",
         auth:{
-            user:'rtanay65@gmail.com',
-            pass:"Lavairis504q@"
+            user:'****',
+            pass:"*****"
         }
     })
 
